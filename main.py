@@ -4,7 +4,7 @@ import json
 
 app = FastAPI()
 
-
+print("Hello")
 
 @app.get("/")
 async def root():

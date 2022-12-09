@@ -29,3 +29,4 @@ def scrapData():
         #     )
         # else:
         raise
+scrapData()
